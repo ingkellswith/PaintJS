@@ -1,0 +1,14 @@
+@import "reset.css"
+
+
+body {
+    background-color: #f6f9fc;
+    flex-direction:column;
+    align-items:center;
+}
+
+.class{
+    width:700px;
+    height:700px;
+    background-color:white;
+}
